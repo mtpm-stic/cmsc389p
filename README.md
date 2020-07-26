@@ -15,9 +15,9 @@ Students are introduced to the tools, techniques, and resources to nail their PM
 - **Seats**: 30
 - **Lecture Time**: Friday, 12:00-12:50 pm
 - **Course Materials**: All required course materials will be provided.
-- **Course Facilitator**: [Sriv Parameswaran] (http://linkedin.com/in/srivarshini-p/) and [Desiree Abrokwa] (http://linkedin.com/in/desiree-abrokwa-173b88148/)
+- **Course Facilitator**: Sriv Parameswaran and Desiree Abrokwa
 - **Faculty Advisor**: [Michelle Mazurek](http://users.umiacs.umd.edu/~mmazurek/)
-- **Special Thanks to [Annie Fang] (http://linkedin.com/in/thisisanniefang/)**
+- **Special Thanks to Annie Fang**
 
 ## What will you learn?
 - What it means to be a PM
