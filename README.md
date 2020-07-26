@@ -22,9 +22,9 @@ Students are introduced to the tools, techniques, and resources to nail their PM
 ## What will you learn?
 - What it means to be a PM
 - **User-Centered** Thinking
-- Product mindset
-- How to launch a product
-- Ability to channel multiple POVs
+- Product Mindset
+- How to Launch a Product
+- Ability to Channel Multiple POVs
 
 ## Class Format
 This class will be a combination of lectures and in-class group activities with mock interview practice. We hope to cultivate an inclusive and open environment with students of all backgrounds and experiences!
