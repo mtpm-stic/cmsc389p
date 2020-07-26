@@ -42,7 +42,7 @@ This class will be a combination of lectures and in-class group activities with 
 |:----:|:----:|
 | Weeks 1-4 | Behavioral/Technical Concepts
 | Weeks 5-7 | Product Design
-| Weeks 8-9 | PEstimation and Analytical Questions
+| Weeks 8-9 | Estimation and Analytical Questions
 | Weeks 10-13 | Product Launch and Case Studies
 
 ## Communication
