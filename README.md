@@ -8,12 +8,6 @@
 ## Course Description
 Students are introduced to the tools, techniques, and resources to nail their PM (Product Management) interviews. We'll be providing hands-on practice with PM specific topics including product design, analytical, and case questions.
 
-## Course Lecture Videos
-- [Week 2](https://drive.google.com/file/d/13MIzc7YcULavce9cqyBjim5P2o4n9ymW/view?usp=sharing)
-- [Week 3](https://drive.google.com/file/d/1FiE2vwQ2c02lcvC_34VZqzsnzS1ERFsT/view?usp=sharing)
-- [Week 4](https://drive.google.com/file/d/1uBM9dxbN4A4YVDGU_cuLGDcBpprj5D_K/view?usp=sharing)
-
-
 ## Course Details
 - **Course**: CMSC389P
 - **Prerequisites**: CMSC216 and CMSC250
